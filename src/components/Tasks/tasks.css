@@ -1,0 +1,22 @@
+.body__cardarea{
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,27%); 
+    grid-auto-rows: minmax(350px,auto);
+    grid-template-rows: 350px;
+    grid-gap: 3vw;
+    
+  }
+select{
+    width: 10vw;
+}
+.tasks__selection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.usergreeting{
+    margin-bottom: 5%;
+    font-size: 38px;
+    line-height: 48px;
+}

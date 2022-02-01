@@ -1,0 +1,26 @@
+#header{
+    min-width: 40vw;
+    margin-top: 4vh;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__img{
+    margin-left: 2%;
+}
+.header__text--middle{
+    
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.042353px;
+    color: #3D4641;
+}
+.header__text--end{
+    margin-right: 3%;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: -0.0352941px;
+    color: #3D4641;
+}

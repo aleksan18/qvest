@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    line-height: 18px;
+    background: #FFFFFF;
+
+/* identical to box height, or 120% */
+    text-align: right;
+
+    /* Primary Black */
+    color: #3D4641;
+}
+.footer__activity--end{
+    margin-right: 3%;
+}
+.footer__activity--start{
+    font-size: 15px;
+    line-height: 22px;
+
+    /* identical to box height, or 147% */
+    letter-spacing: -0.0294118px;
+
+    /* Primary Black */
+    color: #3D4641;
+
+
+    margin-left: 3%;
+}
